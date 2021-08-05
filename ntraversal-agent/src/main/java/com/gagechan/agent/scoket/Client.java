@@ -19,9 +19,6 @@ public class Client {
 
     private final static Logger log = LoggerFactory.getLogger(Client.class);
 
-    private String host;
-
-    private int port;
 
     public void connect(ChannelInitializer<SocketChannel> initializer, String inetHost, int inetPort) {
         log.info("Is connecting to {}...", inetPort);
