@@ -1,4 +1,4 @@
-package com.gagechan.common;
+package com.gagechan.common.log;
 
 import java.io.File;
 import java.io.IOException;
