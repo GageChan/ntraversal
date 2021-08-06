@@ -1,5 +1,5 @@
 ## 简介
-Ntraversl一款基于netty实现的内网穿透工具。依赖netty核心包、hutool工具包、log4j日志包，轻量无过度依赖。
+Ntraversl是一款基于netty实现的内网穿透工具。依赖netty核心包、hutool工具包、log4j日志包，轻量无过度依赖。
 
 如果你感兴趣，请点击[Star](https://github.com/GageChan/ntraversal)。
 
