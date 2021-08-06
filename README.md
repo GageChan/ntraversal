@@ -30,9 +30,9 @@ wget https://github.com/GageChan/ntraversal/releases/download/1.0/ntraversal_1.0
 **2.server端**
 
 ```shell
-java -jar ntraversal-server-1.0.jar -ap 9527 -pp 9000
-# -ap 指定服务端启动端口，默认9000
-# -pp 指定外部访问端口
+java -jar ntraversal-server-1.0.jar -ap 8999 -pp 9000
+# -ap 指定服务端启动端口，默认8999
+# -pp 指定外部访问端口，默认9000
 ```
 
 **3.agent端**
